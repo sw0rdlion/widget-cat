@@ -1,0 +1,4 @@
+plugins:
+  widget-cat:
+    default: ''
+    client: true
