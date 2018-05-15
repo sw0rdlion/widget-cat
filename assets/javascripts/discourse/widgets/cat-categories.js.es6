@@ -37,7 +37,7 @@ export default createWidget('cat-categories', {
   tagName: 'div.category-links.clearfix',
 
   html(attrs) {
-    const href = Discourse.getURL('/categories');
+   // const href = Discourse.getURL('/categories');
     const result = [h('div.qa-cat', I18n.t('filters.categories.title') )];
 
     const categories = attrs.categories;
