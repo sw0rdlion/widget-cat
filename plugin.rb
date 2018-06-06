@@ -1,6 +1,6 @@
-# name:  widget-cat
+# name:  widget-category
 # about: A category widget that works with discourse-layouts
-# version: 0.1
+# version: 0.1.1
 # authors: Evg
 
 register_asset 'stylesheets/widget-cat.scss'
